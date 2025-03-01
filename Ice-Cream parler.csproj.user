@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ACandies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ACones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ACups.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AFamilyPack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ALogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AmericanNutsCup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ArabianFantasy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ARegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Blackcurrant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BlackCurrantF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Candies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CandiesOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chocobar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChocoBrownie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChocoJunior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChocolateCup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConesOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CookieMagic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CrunchyButterscotch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cups.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CupsOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FamilyPack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FamilyPackOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FruitBonaza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KacchaMango.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KajuDraksh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KasarPista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KesarCup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MangoCup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MangoDolly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MawaMalai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrangeBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlaceOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Raspberry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RedVelvet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staawberry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StrawberryCup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VanillaCup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
