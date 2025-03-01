@@ -1,0 +1,70 @@
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Cream parler.csproj.AssemblyReference.cache
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Login.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Properties.Resources.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Register.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Cream parler.csproj.GenerateResource.cache
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Cream parler.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Cream parler.AssemblyInfoInputs.cache
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Cream parler.AssemblyInfo.cs
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Cream parler.csproj.CoreCompileInputs.cache
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\Ice-Cream parler.exe
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\Ice-Cream parler.deps.json
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\Ice-Cream parler.runtimeconfig.json
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\Ice-Cream parler.dll
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\Ice-Cream parler.pdb
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Crea.DAEAED3F.Up2Date
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Cream parler.dll
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\refint\Ice-Cream parler.dll
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Cream parler.pdb
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice-Cream parler.genruntimeconfig.cache
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\ref\Ice-Cream parler.dll
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Cups.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Home.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Cones.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Candies.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.FamilyPack.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ChocolateCup.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.StrawberryCup.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.AmericanNutsCup.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.KesarCup.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.MangoCup.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.VanillaCup.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ArabianFantasy.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Blackcurrant.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ChocoJunior.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.CookieMagic.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.KajuDraksh.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.RedVelvet.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Chocobar.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.KacchaMango.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.MangoDolly.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.MawaMalai.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.OrangeBar.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Raspberry.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.BlackCurrantF.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ChocoBrownie.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.CrunchyButterscotch.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.FruitBonaza.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.KasarPista.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.Staawberry.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.PlaceOrder.resources
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\System.Management.dll
+D:\.NET\Project\Ice-Cream parler\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.AdminPanal.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.CandiesOrder.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ConesOrder.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.CupsOrder.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.FamilyPackOrder.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ACandies.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ACones.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ACups.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.AFamilyPack.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ALogin.resources
+D:\.NET\Project\Ice-Cream parler\obj\Debug\net8.0-windows\Ice_Cream_parler.ARegister.resources
